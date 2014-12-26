@@ -18,8 +18,6 @@
   "license": "BSD",
   "gitHead": "cdd89f1fb6273ede781c9e00a512720df1adffff",
   "dependencies": {
-    //"node-bind": "^0.4.2",
-    //"observe-js": "^0.4.2",
     "observe-js": "CKUpdate/observe-js#master",
     "NodeBind": "CKUpdate/NodeBind#master"
   },
