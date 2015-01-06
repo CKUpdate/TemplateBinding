@@ -1,5 +1,5 @@
 {
-  "name": "template-binding",
+  "name": "TemplateBinding",
   "version": "0.4.2",
   "description": "",
   "main": "./src/TemplateBinding.js",
